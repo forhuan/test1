@@ -20,10 +20,8 @@ public class test {
 			// TODO: handle exception
 			System.out.println(e);
 			System.exit(1);
+			
 		}
 		
-		
-		
 	}
-	
 }
